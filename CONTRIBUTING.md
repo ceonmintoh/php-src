@@ -1,9 +1,9 @@
 # Contributing to PHP
 
 Anybody who programs in PHP can be a contributing member of the community that
-develops and deploys it; the task of deploying PHP, documentation and associated
+develops and deploys it; the task of deploying PHP, it documentation and associated
 websites is a never-ending one. With every release or release candidate comes a
-wave of work, which takes a lot of organization and co-ordination.
+wave of work, which takes a lot of time, organization and co-ordination.
 
 You don't need any special access to download, build, debug and begin submitting
 PHP or PECL code, tests or documentation. Once you've followed this guide and
